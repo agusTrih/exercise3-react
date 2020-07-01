@@ -6,8 +6,8 @@ import CourseCard from "../component/CourseCard/CourseCard";
 // css
 import "./landingpage.css";
 // images
-import imgCourse from "../assets/image/images3.png";
-import imgCourse2 from "../assets/image/images2.png";
+import imgCourse from "../assets/image/html.png";
+import imgCourse2 from "../assets/image/css.jpg";
 
 function LandingPage(props) {
     const card = [
